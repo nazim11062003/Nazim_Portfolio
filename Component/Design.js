@@ -11,11 +11,11 @@ const Design = () => {
             <div className="webpro_row1">
                 <div className="wpro">
                     <Image className='wpro_img' src="/halloween.png" width={307} height={200} />
-                    <p className="visit">Visit Project</p>
+                    <a href='https://www.figma.com/file/y5XN2L9nKROT0C6KSRfvhE/Untitled?type=design&node-id=0%3A1&mode=design&t=9SmwF9QwkZgnegnI-1' className="visit">Visit Project</a>
                 </div>
                 <div className="wpro">
                     <Image className='wpro_img' src="/nike.png" width={307} height={200} />
-                    <p className="visit">Visit Project</p>
+                    <a href='https://www.figma.com/file/vBiy3jP05sOYdnsLDGxv4u/Untitled?type=design&node-id=1%3A2&mode=design&t=m183HVifgMUOs958-1' className="visit">Visit Project</a>
                 </div>
                 <div className="wpro">
                     <Image className='wpro_img' src="/reyna.png" width={307} height={200} />
