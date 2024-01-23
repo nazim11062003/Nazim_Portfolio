@@ -15,7 +15,7 @@ const Design = () => {
                 </div>
                 <div className="wpro">
                     <Image className='wpro_img' src="/nike.png" width={307} height={200} />
-                    <a href='https://www.figma.com/file/vBiy3jP05sOYdnsLDGxv4u/Untitled?type=design&node-id=1%3A2&mode=design&t=m183HVifgMUOs958-1' className="visit">Visit Project</a>
+                    <a href='https://www.figma.com/file/vBiy3jP05sOYdnsLDGxv4u/Untitled?type=design&node-id=0%3A1&mode=design&t=Cw5Zj7Q4CTFFCH6w-1' className="visit">Visit Project</a>
                 </div>
                 <div className="wpro">
                     <Image className='wpro_img' src="/reyna.png" width={307} height={200} />
