@@ -688,6 +688,7 @@ button:active {
     font-size: 3vw;
     position: relative;
     top: 0vh;
+    left: 12.5vh;
   }
   .design_main{
     height: 353vh;
