@@ -488,37 +488,43 @@ button:active {
 }
 
 @media(max-width:400px) {
+  .home_main {
+    height: 87vh;
+  }
   .nav_left{
     width: 50vw;
-
   }
   .flag{
-    width: 2vw;
-    height: 2vh;
+    width: 3vw;
+    height: 2.3vh;
     position: relative;
-    top: 0.5vh;
+    top: 0.7vh;
   }
   .name{
-    font-size: 1vh;
-    width: 40vw;
+    font-size: 0.8vh;
+    width:40vw;
+    left:-2.5vh;
     font-weight: 500;
   }
   .nav_right{
     width: 40vw;
-    font-size: 1vh;
+    font-size: 0.8vh;
     font-weight: 400;
+    visibility: hidden;
   }
   .connect{
     font-size: 1vh;
     width: 7vw;
+    visibility:hidden;
   }
   .home_name{
     font-size: 2vh;
     position: relative;
-    left: 14vh;
+    left: 9.5vh;
   }
   #slash_home{
     width: 2vw;
+    height: 2.5vh;
   }
   .wave_hand{
     width: 3vw;
@@ -527,38 +533,40 @@ button:active {
   .webdev{
     font-size: 5vw;
     position: relative;
-    left: 5.6vh;
+    left: 4.5vh;
   }
   .char3d{
     width: 55vw;
+    height: 54vh;
     position: relative;
     top: 16vh;
-    left: 14vh;
+    left: 10vh;
   }
   .skill_main{
-    height: 45vh;
+    height: 35vh;
     position: relative;
     top: -0.5vh;
   }
   .container1{
     position: relative;
-    left: -1vh;
+    left: -3vh;
     margin-bottom: 5vh;
   }
   .container2{
     position: relative;
-    left: -1vh;
+    left: -3vh;
   }
   .container{
-    width: 10vw;
-    height: 10vh;
+    width: 13vw;
+    height: 8.5vh;
+    left: 1vh;
   }
   .skill_img{
-    width: 3vw;
-    height: 3vh;
+    width: 5.8vw;
+    height: 3.5vh;
     position: relative;
-    left: -1vh;
-    top: 0.5vh;
+    left: -1.5vh;
+    top: 0vh;
   }
   .project_main{
     height: 60vh;
@@ -568,7 +576,7 @@ button:active {
   .project_head{
     font-size: 6vw;
     position: relative;
-    left: 22vh;
+    left: 18vh;
   }
   .webd_pro{
     height: 15vh;
@@ -585,7 +593,7 @@ button:active {
   }
   .about_box{
     width: 80vw;
-    height: 60vh;
+    height: 50vh;
     position: relative;
     left: 0vh;
     right: 0vh;
@@ -600,20 +608,20 @@ button:active {
     left: 2vh;
   }
   #opening{
-    width: 3.2vw;
-    height: 2vh;
+    width: 3vw;
+    height: 1.5vh;
     position: relative;
     top: 0.2vh;
   }
   .closing_about{
     font-size: 3vw;
     position: relative;
-    left: 30vh;
+    left: 25vh;
     top: 10vh;
   }
   #slashh{
     width: 1.8vw;
-    height: 2.3vh;
+    height: 2vh;
     position: relative;
     top: -0.1vh;
   }
@@ -630,7 +638,7 @@ button:active {
   .contact_head{
     font-size: 6vw;
     position: relative;
-    left: 18vh;
+    left: 14.3vh;
   }
   .form_input{
     width: 80vw;
@@ -653,7 +661,7 @@ button:active {
     font-size: 6vw;
     font-weight: 500;
     position: relative;
-    left: 10vh;
+    left: 5.5vh;
     top: 5vh;
   }
   .backarrow{
@@ -666,7 +674,7 @@ button:active {
     flex-direction: column;
     justify-content: space-between;
     position: relative;
-    left: 1.5vh;
+    left: -1vh;
     height: 100vh;
   }
   .wpro{
